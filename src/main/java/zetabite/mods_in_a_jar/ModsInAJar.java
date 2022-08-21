@@ -1,6 +1,5 @@
 package zetabite.mods_in_a_jar;
 
-import net.minecraft.client.texture.NativeImageBackedTexture;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.Identifier;
@@ -14,7 +13,6 @@ import org.slf4j.LoggerFactory;
 import zetabite.mods_in_a_jar.item.ModRegistry;
 import zetabite.mods_in_a_jar.item.model.ModCookieModel;
 
-import java.nio.file.Path;
 import java.util.HashMap;
 import java.util.Map;
 
