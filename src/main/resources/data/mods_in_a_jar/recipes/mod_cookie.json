@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "CCC",
+      "CMC",
+      "CCC"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:cookie"
+      },
+      "M": {
+        "item": "minecraft:mud"
+      }
+    },
+    "result": {
+      "item": "mods_in_a_jar:mod_cookie",
+      "count": 8
+    }
+  }

@@ -1,0 +1,9 @@
+{
+  "cookie_jar": {
+    "subtitle": "subtitles.mods_in_a_jar.cookie_jar",
+    "sounds": [
+      "mods_in_a_jar:cookie_jar1",
+      "mods_in_a_jar:cookie_jar2"
+    ]
+  }
+}

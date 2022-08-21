@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "mods_in_a_jar:block/cookie_jar" }
+  }
+}
